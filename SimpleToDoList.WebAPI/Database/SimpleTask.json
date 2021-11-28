@@ -1,0 +1,38 @@
+[
+  {
+    "Id": "06a233fa-d140-433e-bb4d-f66a7f192a08",
+    "Description": "Analyze epic and user stories",
+    "Priority": 1,
+    "IsDone": true
+  },
+  {
+    "Id": "276942af-e6f4-478c-8a7c-94d0e9ffe1f6",
+    "Description": "Planning project",
+    "Priority": 1,
+    "IsDone": true
+  },
+  {
+    "Id": "a5cc4f99-e5df-400b-98d3-7a3a801d0e79",
+    "Description": "Create project architecture",
+    "Priority": 1,
+    "IsDone": false
+  },
+  {
+    "Id": "50d9c1f8-312e-4437-ad50-5ef5c497f752",
+    "Description": "Implement requirements",
+    "Priority": 1,
+    "IsDone": false
+  },
+  {
+    "Id": "35f5f7e3-3ed0-4250-8b1e-ef08cac43187",
+    "Description": "Code and performance review",
+    "Priority": 2,
+    "IsDone": false
+  },
+  {
+    "Id": "07378cc4-3433-47d2-bac2-8582939b0f08",
+    "Description": "Deploy project to GitHub",
+    "Priority": 3,
+    "IsDone": false
+  }
+]
